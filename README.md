@@ -1,3 +1,5 @@
-# LHR-V2-.MSI-unlocker-decompiled
+## LHR-V2-.MSI-unlocker-decompiled
 
-This is the decompiled version of the FAKE LHR V2 unlocker downloader, if anyone has the .exe after this please add me on discord Борис#2477 so i can also have a look at this file.
+This is the decompiled version of the FAKE LHR V2 unlocker downloader.
+
+Note: the installer is mostly likely malicous and is not recommened to download on your main PC. 
